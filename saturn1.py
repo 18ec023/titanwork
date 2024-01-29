@@ -1,5 +1,7 @@
 saturn has many moons
 nimas
-dione
+tethys
 rhea
+phobea
 hyperion
+pan
